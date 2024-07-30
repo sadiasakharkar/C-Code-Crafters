@@ -44,10 +44,14 @@ Replace output_file_name with your desired executable name and source_file_name.
 - Compilation Errors: Ensure that you are using the correct compiler and that all dependencies are installed. 
 - Runtime Issues: Verify that you are running the compiled program correctly and that you have provided the necessary inputs or configurations as described in the individual project files.
 
+## Author
+
+This repository is maintained by Sadia Sakharkar. 
+
 # Contact
 For questions, suggestions, or feedback, please open an issue or contact sakharkarsadia@gmail.com
 
-## Happy coding, and may your journey in C be as rewarding as it is enlightening!
+ Happy coding, and may your journey in C be as rewarding as it is enlightening!
   
 
 
